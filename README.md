@@ -9,7 +9,7 @@
 
   <!-- Badges -->
   <p align="center">
-    <a href="https://masjidv2.waavis.com">
+    <a href="https://masjid-digitalisasi.vercel.app/">
       <img src="https://img.shields.io/badge/Live_Demo-Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
     </a>
     <img src="https://img.shields.io/badge/Responsive-Mobile_First-FF7139?style=for-the-badge&logo=css3&logoColor=white" alt="Mobile Responsive" />
@@ -24,7 +24,7 @@
 
 **Masjid V2** adalah sistem informasi manajemen dan website profil masjid berbasis antarmuka web modern yang sangat dioptimasi untuk tampilan seluler (*Mobile-First Responsive*). Sistem ini memberikan pengalaman navigasi seperti layaknya sebuah aplikasi mutakhir di genggaman *smartphone* donatur maupun jamaah.
 
-🌐 **Situs Demo:** [https://masjidv2.waavis.com](https://masjidv2.waavis.com)  
+🌐 **Situs Demo:** [https://masjid-digitalisasi.vercel.app/](https://masjid-digitalisasi.vercel.app/)  
 
 Sistem ini didukung penuh oleh integrasi *real-time* ke **Google Apps Script** dan **Google Spreadsheet** sebagai basis data yang transparan, mudah dikelola pengurus, dan efisien tanpa server khusus.
 
@@ -93,7 +93,7 @@ Setelah website Anda online, buka halaman setup di browser:
 https://domain-anda.com/setup
 ```
 
-> **Contoh:** [https://masjidv2.waavis.com/setup](https://masjidv2.waavis.com/setup)
+> **Contoh:** [https://masjid-digitalisasi.vercel.app//setup](https://masjid-digitalisasi.vercel.app//setup)
 
 Halaman ini akan **membuat semua tabel (Sheet) yang dibutuhkan** secara otomatis di Google Spreadsheet serta mengatur konfigurasi awal (akun admin, dll).
 

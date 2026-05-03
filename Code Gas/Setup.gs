@@ -129,15 +129,15 @@ function setupBeritaSheets_(ss) {
     'Pengajian', '', 189, 45, 'published', 'admin', '2026-03-20T10:00:00Z', now]);
 
   sBerita.appendRow(['brt003', 'Kegiatan Bersih-Bersih Masjid Bersama', 'kegiatan-bersih-masjid-bersama-brt003',
-    '<p>Dalam rangka menjaga kebersihan dan keindahan masjid, kami mengadakan kegiatan bersih-bersih masjid bersama yang akan dilaksanakan pada:</p><p><strong>Hari/Tanggal:</strong> Sabtu, 5 April 2026<br><strong>Waktu:</strong> 07:00 - 10:00 WIB<br><strong>Tempat:</strong> Masjid Al-Ikhlas</p><p>Kami mengajak seluruh warga untuk berpartisipasi. Mohon membawa peralatan kebersihan dari rumah masing-masing.</p>',
+    '<p>Dalam rangka menjaga kebersihan dan keindahan masjid, kami mengadakan kegiatan bersih-bersih masjid bersama yang akan dilaksanakan pada:</p><p><strong>Hari/Tanggal:</strong> Sabtu, 5 April 2026<br><strong>Waktu:</strong> 07:00 - 10:00 WIB<br><strong>Tempat:</strong> Masjid </p><p>Kami mengajak seluruh warga untuk berpartisipasi. Mohon membawa peralatan kebersihan dari rumah masing-masing.</p>',
     'Kegiatan', '', 98, 24, 'published', 'admin', '2026-04-01T06:00:00Z', now]);
 
   sBerita.appendRow(['brt004', 'Santunan Anak Yatim Bulan Ramadhan', 'santunan-anak-yatim-ramadhan-brt004',
-    '<p>Masjid Al-Ikhlas kembali mengadakan program santunan anak yatim menjelang bulan Ramadhan. Program ini merupakan kegiatan tahunan yang bertujuan untuk meringankan beban anak-anak yatim di sekitar lingkungan masjid.</p><p>Tahun ini, kami menargetkan untuk menyantuni <strong>50 anak yatim</strong> dengan paket sembako dan uang tunai.</p>',
+    '<p>Masjid  kembali mengadakan program santunan anak yatim menjelang bulan Ramadhan. Program ini merupakan kegiatan tahunan yang bertujuan untuk meringankan beban anak-anak yatim di sekitar lingkungan masjid.</p><p>Tahun ini, kami menargetkan untuk menyantuni <strong>50 anak yatim</strong> dengan paket sembako dan uang tunai.</p>',
     'Sosial', '', 156, 89, 'published', 'admin', '2026-02-10T09:00:00Z', now]);
 
   sBerita.appendRow(['brt005', 'Lomba Hafalan Al-Quran untuk Anak-Anak', 'lomba-hafalan-quran-anak-brt005',
-    '<p>Dalam rangka memperingati Isra Mi\'raj, Masjid Al-Ikhlas menyelenggarakan lomba hafalan Al-Quran untuk anak-anak usia 5-12 tahun.</p><p><strong>Kategori Lomba:</strong></p><ul><li>Kategori A (5-7 tahun): Hafalan Juz 30 (5 surah pilihan)</li><li>Kategori B (8-10 tahun): Hafalan Juz 30 (10 surah pilihan)</li><li>Kategori C (11-12 tahun): Hafalan Juz 30 lengkap</li></ul><p>Pendaftaran dibuka mulai 1 April - 15 April 2026. Gratis!</p>',
+    '<p>Dalam rangka memperingati Isra Mi\'raj, Masjid  menyelenggarakan lomba hafalan Al-Quran untuk anak-anak usia 5-12 tahun.</p><p><strong>Kategori Lomba:</strong></p><ul><li>Kategori A (5-7 tahun): Hafalan Juz 30 (5 surah pilihan)</li><li>Kategori B (8-10 tahun): Hafalan Juz 30 (10 surah pilihan)</li><li>Kategori C (11-12 tahun): Hafalan Juz 30 lengkap</li></ul><p>Pendaftaran dibuka mulai 1 April - 15 April 2026. Gratis!</p>',
     'Kegiatan', '', 78, 34, 'published', 'admin', '2026-03-25T07:00:00Z', now]);
 
   // Sheet: Kategori

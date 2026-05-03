@@ -10,11 +10,11 @@ const APP_CONFIG = {
   JWT_EXPIRY: 21600, // 6 jam dalam detik
   CACHE_DURATION: 3600, // 1 jam
   ITEMS_PER_PAGE: 9,
-  ALLOWED_ORIGINS: ['http://localhost:5173', 'http://localhost:3000', 'https://masjidv2.waavis.com', 'http://localhost:4173'],
+  ALLOWED_ORIGINS: ['http://localhost:5173', 'http://localhost:3000', 'https://masjid-digitalisasi.vercel.app/', 'http://localhost:4173'],
 };
 
 const DEFAULT_CONFIG = {
-  NAMA_MASJID: 'Masjid Al-Ikhlas',
+  NAMA_MASJID: 'Masjid ',
   LOKASI_MASJID: 'Jl. Raya Masjid No. 1, Kota Indah, Indonesia',
   LATITUDE: '-6.2088',
   LONGITUDE: '106.8456',

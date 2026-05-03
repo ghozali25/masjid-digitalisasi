@@ -3,7 +3,7 @@ import{a}from"./index-49v1tazL.js";var s="Setup";function r(){return`
       <div style="background:#fff;border-radius:16px;box-shadow:0 20px 60px rgba(0,0,0,0.1);padding:40px;max-width:550px;width:100%">
         <div class="text-center mb-4">
           <img src="/logo.png" alt="Logo" style="width:80px;height:80px;border-radius:50%;object-fit:cover;margin-bottom:12px">
-          <h4 class="fw-bold mt-2" style="color:#2e7d32">Masjid Al-Ikhlas</h4>
+          <h4 class="fw-bold mt-2" style="color:#2e7d32">Masjid </h4>
           <p class="text-muted">Setup Awal Aplikasi v2</p>
         </div>
 
