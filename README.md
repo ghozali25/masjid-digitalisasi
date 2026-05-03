@@ -99,6 +99,14 @@ Halaman ini akan **membuat semua tabel (Sheet) yang dibutuhkan** secara otomatis
 
 > ⚠️ **Halaman Setup hanya perlu dijalankan SEKALI** saat pertama kali instalasi. Setelah setup berhasil, Anda bisa langsung mengakses dashboard admin melalui `/login`.
 
+### 6. Kredensial Login Default
+
+Gunakan akun berikut untuk masuk ke dashboard admin pertama kali:
+- **Username:** `masjid`
+- **Password:** `indonesia`
+
+*Sangat disarankan untuk mengubah password segera setelah login melalui menu Pengaturan di Dashboard.*
+
 **Selesai!** Website masjid Anda kini sudah online dan siap digunakan. 🎉
 
 <br/>
